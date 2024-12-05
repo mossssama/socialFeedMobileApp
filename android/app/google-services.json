@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1001893276480",
+    "firebase_url": "https://social-feed-app-40974-default-rtdb.firebaseio.com",
+    "project_id": "social-feed-app-40974",
+    "storage_bucket": "social-feed-app-40974.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001893276480:android:1b313b4b89ee0d8628a8a5",
+        "android_client_info": {
+          "package_name": "com.mossssama.social_feed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqRe4EaS_DgDokP1QQUYmynj624_p7ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
